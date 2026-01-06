@@ -1,0 +1,27 @@
+body {
+  background-color: #04070c;
+  color: white;
+  padding: 40px;
+  font-family: Arial;
+  text-align:center
+}
+.Hero {
+  margin: 40px 0;
+}
+
+.About {
+  margin: 40px 0;
+}
+
+.skill {
+  margin: 40px 0;
+  
+}
+
+.Project {
+  margin: 40px 0;
+}
+
+.contact {
+  margin: 40px 0;
+}
